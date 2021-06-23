@@ -2,7 +2,22 @@
 #### Software Engineer | Computer Science Graduate
 I am a Software/DevOps/Site Reliability/Cloud/Automation/Machine Learning Engineer. I am here to explore and learn from the huge open source community :)
 
-Skills: Python, Linux, Bash
+Skills: 
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
+![Linux](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
 
 - 🔭 I’m currently working on Red Hat Enterprise Linux 
 - 🌱 I’m currently learning web design 
